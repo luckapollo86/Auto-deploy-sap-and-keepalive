@@ -8,8 +8,8 @@ let BOT_TOKEN = "";  // Telegram机器人TOKEN,直接填写或设置环境变量
 
 // 应用配置 URL和应用名称配置(必填)
 const MONITORED_APPS = [ // 格式: {url: "应用URL", name: "应用名称"}
-  {url: "https://xxxxx.cfapps.ap21.hana.ondemand.com", name: "xxxxx"},  
-  {url: "https://xxxxx.cfapps.us10-001.hana.ondemand.com", name: "xxxxx"}
+  {url: "https://aws-usvadkwspg.cfapps.us10-001.hana.ondemand.com", name: "aws-usvadkwspg"},  
+  {url: "https://moontv-awsusvaizjvyb.cfapps.us10-001.hana.ondemand.com", name: "moontv-awsusvaizjvyb"}
 ];
 
 // 区域固定常量(无需更改)
